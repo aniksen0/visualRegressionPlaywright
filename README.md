@@ -1,8 +1,8 @@
-# Visual Regression Testing with Playwright
+# Visual Regression Testing with the Playwright
 
-This script is made to test the visual difference on a static website, Playwright let's you to do that.
+This script is made to test the visual difference on a static website, The Playwright lets you to do that.
 
-To run this script install the playwright in your computer
+To run this script install the playwright on your computer
 ```
 npm init playwright@latest
 ```
@@ -10,9 +10,9 @@ npm init playwright@latest
  ```
  npx playwright test
  ```
- To update the snapshot (Actual images that being checked with the image during script running)
+ To update the snapshot (Actual images that are being checked with the image during script running)
  ```
  npx playwright test --update-snapshots
  ```
- Execution Video:
+ Execution Video: https://www.youtube.com/watch?v=BtxtlzbrUrs
  
